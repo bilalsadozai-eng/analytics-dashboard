@@ -1,4 +1,7 @@
 # 📊 AnalytiQ — Real-Time Collaborative Analytics Dashboard
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Tech Stack](https://img.shields.io/badge/React-18-blue)
 
 > Full-stack React + TypeScript + Socket.io dashboard with live collaboration, drag-and-drop, and RBAC.
 
